@@ -27,7 +27,6 @@
 
 👤 Who are the top 10 high-value customers by CLV?
 
-
 🛒 Which sub-categories are most/least sold?
 
 🏷️ What is the profit margin by product category?
@@ -39,6 +38,9 @@
 🎯 How much do top 10 CLV customers contribute to sales?
 
 ⚠️ Are there outliers in the data that impact analysis?
+
+
+Dashboard Interactive <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/6e85dcadd1514409d03867ebc84e601f66171fad">View Dashboard</a>
 
 **🧾 Data Summary**
 
