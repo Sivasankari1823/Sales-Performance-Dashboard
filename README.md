@@ -5,6 +5,7 @@
 **📊 Superstore Sales Performance Analysis — Excel & SQL**
 
 **🔍 Project Objective**
+
 -Build a dynamic and interactive Excel dashboard to monitor key business performance indicators.
 
 -Use SQL to query and preprocess sales data for deeper insights.
