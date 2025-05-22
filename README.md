@@ -45,7 +45,7 @@ Dashboard Interactive <a href="https://github.com/Sivasankari1823/Sales-Performa
 
 KPIs Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/497f7e45390697908988adad75c8da645816b8f2">View Total Sales, Order</a>
 
-KPIs Zoomed Out Screenshot <a href="">View Most and Least Sold Sub Category</a>
+KPIs Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/cf216880c5d5bcc024817fad9f2a3153a692d8eb">View Most and Least Sold Sub Category, Total Customer, Profit</a>
 
 **🧾 Data Summary**
 
