@@ -43,7 +43,7 @@
 
 Dashboard Interactive <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/6e85dcadd1514409d03867ebc84e601f66171fad">View Dashboard</a>
 
-KPIs Zoomed Out Screenshot 1 <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/497f7e45390697908988adad75c8da645816b8f2">View KPI Screenshot</a>
+KPIs Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/497f7e45390697908988adad75c8da645816b8f2">View </a>
 
 KPIs Zoomed Out Screenshot 2 <a href="">View KPI Screenshot</a>
 
