@@ -45,6 +45,8 @@ Dashboard Interactive <a href="https://github.com/Sivasankari1823/Sales-Performa
 
 KPIs Zoomed Out Screenshot 1 <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/497f7e45390697908988adad75c8da645816b8f2">View KPI Screenshot</a>
 
+KPIs Zoomed Out Screenshot 2 <a href="">View KPI Screenshot</a>
+
 **🧾 Data Summary**
 
 **Dataset:** Superstore Sales Dataset (cleaned & modified)
