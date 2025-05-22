@@ -1,8 +1,4 @@
-# Sales-Performance-Dashboard
- I developed a Interactive Sales Performance Dashboard  using Excel and SQL. Analyzes KPIs like sales, profit, CLV, growth rate, and subcategory trends. Includes outlier detection using the IQR method and insights summary for business decisions. This Process involved Data Cleaning,SQL Querying, Pivot Analysis,Dashboard Design,Insights Generation.
-
-
-**📊 Superstore Sales Performance Analysis — Excel & SQL**
+# **📊 Superstore Sales Performance Analysis — Excel & SQL**
 
 **🔍 Project Objective**
 
@@ -16,7 +12,8 @@
 
 -Provide insightful visualizations and data-driven recommendations for strategic decision-making.
 
--Dashboard Interaction ">View Dashboard</a>
+-Dataset <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/blob/d9f201ae5142de95279bae21001a6b818e258a1a/Superstore%20Sales%20Performance%20Analysis.xlsx
+">View Excel File </a>
 
 **❓ Questions Answered (KPIs)**
 
@@ -40,14 +37,30 @@
 
 ⚠️ Are there outliers in the data that impact analysis?
 
+-Dataset <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/blob/d9f201ae5142de95279bae21001a6b818e258a1a/Superstore%20Sales%20Performance%20Analysis.xlsx
+">View Excel File </a>
+
+**Note**
+
+Due to dashboard size, the full screenshot is zoomed out. See below for close-up views of each section.Dashboard view shown for Year: 2014 (You can use the slicer to explore other years interactively in Excel)
 
 Dashboard Interactive <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/6e85dcadd1514409d03867ebc84e601f66171fad">View Dashboard</a>
+
 
 KPIs Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/497f7e45390697908988adad75c8da645816b8f2">View Total Sales, Order</a>
 
 KPIs Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/cf216880c5d5bcc024817fad9f2a3153a692d8eb">View Most and Least Sold Sub Category, Total Customer and Profit</a>
 
- Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/101a29c9dffb3e0cc455883fed325abfead5b241">View Most and Least Sold Sub Category, Total Customer and Profit</a>
+Monthly Sales Trend and Total Profit by Region Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/101a29c9dffb3e0cc455883fed325abfead5b241">View Chart </a>
+
+Average per Month and Profit by Category Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/a63e67c8553b3c38f214f5d2d8cd26f13878aecd">View Chart </a>
+
+Sales Growth Rate Trend,Shipping Delay VS Average Profit,Top 10 Customer by CLV Share Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/commit/6853de02401f9e43a8cb7e5328ce2cc5a3a3ebf3">View Chart </a>
+
+Slicer Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-Performance Dashboard/commit/48ae1d2772b0847dfe8ea2e6c7d8e46825928813">View Slicer Screenshot </a>
+
+
+
 
 **🧾 Data Summary**
 
