@@ -12,8 +12,6 @@
 
 -Provide insightful visualizations and data-driven recommendations for strategic decision-making.
 
--Dataset <a href="https://github.com/Sivasankari1823/Sales-Performance-Dashboard/blob/d9f201ae5142de95279bae21001a6b818e258a1a/Superstore%20Sales%20Performance%20Analysis.xlsx
-">View Excel File </a>
 
 **❓ Questions Answered (KPIs)**
 
