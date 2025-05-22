@@ -62,20 +62,32 @@ Slicer Zoomed Out Screenshot <a href="https://github.com/Sivasankari1823/Sales-P
 
 **🧾 Data Summary**
 
-**Dataset:** Superstore Sales Dataset (cleaned & modified)
+**Dataset:** 
+
+Superstore Sales Dataset (cleaned & modified)
 
 **Tools Used:**
+
 📊 Microsoft Excel (PivotTables, Charts, Slicers, KPIs)
+
 🛠️ SQL (for data extraction & transformation)
+
 📏 IQR Method (for outlier detection)
 
 **Included Sheets:**
+
 -Dashboard
+
 -Cleaned Data
+
 -SQL Queries
+
 -SQL Output
+
 -Pivot Tables
+
 -Charts & Visuals
+
 
 **💡 Project Insights**
 
